@@ -1,3 +1,5 @@
+<img src="/logo.png"/>
+
 # Clone Interface Tinder 
 
 Clonagem da interface do Tinder somente com html e css.
