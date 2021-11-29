@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="/logo.png" height="70px" alt="Unform" />
+   <img src="/logo.png" height="80px" alt="Unform" />
 </p>
 
 <h1 align="center">
