@@ -1,10 +1,22 @@
-# Clone Interface Tinder 
+<p align="center">
+   <img src="/logo.png" height="70px" alt="Unform" />
+</p>
 
-Clonagem da interface do Tinder somente com html e css.
-(Front-end)
+<h1 align="center">
+   Clone Interface Tinder
+</h1>
 
-<img src="/tinder.png"/>
+<h4 align="center">
+  Um clone da interface do Tinder somente com html e css.
+</h4>
 
-# Aplicação:
+<p align="center">
+  <img src="/tinder.png" height="400px"/>
+</p>
+
+<h2 align="center">
+  Aplicações
+</h2>
+
 * [Visual Studio Code](https://code.visualstudio.com/download) 
 
