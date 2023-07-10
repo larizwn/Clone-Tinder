@@ -7,7 +7,7 @@
 </h1>
 
 <h4 align="center">
-  Um clone da interface do Tinder somente com html e css.
+  Um clone da interface do Tinder somente com HTML e CSS.
 </h4>
 
 <p align="center">
